@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<results>
+<api>
+	<uri>Get Form Template</uri>
+	<samples>40</samples>
+	<average>94</average>
+	<min>74</min>
+	<median>93</median>
+	<ninetieth>110</ninetieth>
+	<max>163</max>
+	<httpCode>200</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Get Token</uri>
+	<samples>1</samples>
+	<average>564</average>
+	<min>564</min>
+	<median>564</median>
+	<ninetieth>564</ninetieth>
+	<max>564</max>
+	<httpCode>200</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Get metadata</uri>
+	<samples>20</samples>
+	<average>130</average>
+	<min>78</min>
+	<median>124</median>
+	<ninetieth>197</ninetieth>
+	<max>237</max>
+	<httpCode>200</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Get saved document</uri>
+	<samples>60</samples>
+	<average>129</average>
+	<min>113</min>
+	<median>122</median>
+	<ninetieth>148</ninetieth>
+	<max>301</max>
+	<httpCode>200</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Get submitted document</uri>
+	<samples>60</samples>
+	<average>131</average>
+	<min>107</min>
+	<median>123</median>
+	<ninetieth>138</ninetieth>
+	<max>357</max>
+	<httpCode>200</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Publish metadata</uri>
+	<samples>20</samples>
+	<average>662</average>
+	<min>494</min>
+	<median>632</median>
+	<ninetieth>818</ninetieth>
+	<max>912</max>
+	<httpCode>200</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Save document</uri>
+	<samples>60</samples>
+	<average>226</average>
+	<min>189</min>
+	<median>210</median>
+	<ninetieth>268</ninetieth>
+	<max>442</max>
+	<httpCode>201</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Save metadata</uri>
+	<samples>20</samples>
+	<average>339</average>
+	<min>198</min>
+	<median>295</median>
+	<ninetieth>392</ninetieth>
+	<max>1291</max>
+	<httpCode>201</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Submit document</uri>
+	<samples>60</samples>
+	<average>244</average>
+	<min>196</min>
+	<median>237</median>
+	<ninetieth>256</ninetieth>
+	<max>594</max>
+	<httpCode>201</httpCode>
+	<errors>0.0</errors>
+</api>
+</results>
